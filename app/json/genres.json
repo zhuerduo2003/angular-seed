@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name":"Hornor",
+        "total":9
+    },
+    {
+        "id": 2,
+        "name":"Comedy",
+        "total":11
+    },
+    {
+        "id": 3,
+        "name":"Action",
+        "total":10
+    }
+]

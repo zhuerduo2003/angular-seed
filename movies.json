@@ -1,0 +1,36 @@
+[
+    {
+        "title": "movie1",
+        "id": 1,
+        "overview": "this is movie1 for test",
+        "poster_path": "/movie1.jpg",
+        "genres": 
+        [
+            {
+                "id": 1,
+                "name": "Hornor"
+            },
+            {
+                "id": 3,
+                "name": "Mystery"
+            }
+        ]
+    },
+    { 
+        "title": "movie2",
+        "id": 2,
+        "overview": "this is movie2 for test",
+        "poster_path": "/movie2.jpg",
+        "genres": 
+        [
+            {
+                "id": 1,
+                "name": "Hornor"
+            },
+            {
+                "id": 2,
+                "name": "Comedy"
+            }
+        ]
+    }
+]
